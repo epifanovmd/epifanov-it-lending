@@ -35,10 +35,12 @@
     "check-packages-updates": "yarn outdated"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
     "@loadable/component": "^5.15.2",
     "@loadable/server": "^5.15.2",
     "@loadable/webpack-plugin": "^5.15.2",
     "@types/cookie-parser": "^1.4.2",
+    "antd": "^4.20.4",
     "axios": "^0.26.1",
     "cookie-parser": "^1.4.6",
     "express": "^4.17.3",

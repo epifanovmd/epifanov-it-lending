@@ -1,8 +1,5 @@
 export const ruLocale = {
-  users: "Пользователи",
-  form: "Форма",
-  username: "Имя пользователя",
-  email: "Email",
+  home: "Главная",
 
   error: "Ошибка",
 

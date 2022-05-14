@@ -1,5 +1,5 @@
 import React, { FC, memo } from "react";
 
-const Auth: FC = memo(() => <div>Home</div>);
+const Home: FC = memo(() => <div>Home</div>);
 
-export default Auth;
+export default Home;
